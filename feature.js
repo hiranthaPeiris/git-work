@@ -1,1 +1,1 @@
-console.log("hello local conflict");
+console.log("hello world");
